@@ -1,0 +1,4 @@
+﻿USE InventoryDB
+Go
+DBCC CHECKIDENT(Suppliers,RESEED,0)
+Go
