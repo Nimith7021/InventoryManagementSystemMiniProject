@@ -20,21 +20,13 @@ namespace InventoryManagementSystem.Repositories
            
         }
 
-       
 
-        public List<Inventory> GetAllProducts()
-        {
-            return _context.inventories.Include(Inventory=>Inventory.products).ToList();
-        }
 
-        public List<Inventory> GetAllSuppliers()
+        public List<Inventory> GetAllDetails()
         {
-            return _context.inventories.Include(Inventory => Inventory.suppliers).ToList();
-        }
-
-        public List<Inventory> GetAllTransactions()
-        {
-            return _context.inventories.Include(Inventory=>Inventory.transactionStocks).ToList();
+            return _context.inventories.Include(Inventory => Inventory.products).
+                Include(Inventory => Inventory.suppliers).Include(Inventory => Inventory.transactionStocks)
+                .ToList();
         }
     }
 }

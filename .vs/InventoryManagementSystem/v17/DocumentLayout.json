@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\",
+  "WorkspaceRootPath": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\controller\\inventorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\models\\transactionstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\transactionstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\controller\\inventorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:controller\\inventorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\repo\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\repo\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repo\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\controller\\productstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\controller\\productstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:controller\\productstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,87 +45,72 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\repo\\transactionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\repo\\transactionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repo\\transactionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\controller\\transactionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\controller\\transactionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:controller\\transactionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\repo\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\repo\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repo\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB/True/SqlTable/dbo.inventories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\models\\transactionstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:models\\transactionstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\controller\\supplystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\controller\\supplystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:controller\\supplystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\repo\\suppliermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\repo\\suppliermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:repo\\suppliermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\exceptions\\productnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\exceptions\\productnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:exceptions\\productnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\exceptions\\negativestockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\exceptions\\negativestockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:exceptions\\negativestockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\exceptions\\existingnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\exceptions\\existingnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:exceptions\\existingnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103121_TransactionTableAddedToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240810103121_TransactionTableAddedToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103121_TransactionTableAddedToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\migrations\\20240807135806_tableproductsupplierv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\migrations\\20240807135806_tableproductsupplierv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:migrations\\20240807135806_tableproductsupplierv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103035_TransactionTableAddedToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240810103035_TransactionTableAddedToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103035_TransactionTableAddedToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\ProductContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ProductContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\ProductContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProductDB/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -125,19 +122,17 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SupplierDB/True/SqlTable/dbo.Suppliers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\SupplierContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\SupplierContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\SupplierContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\Supplier\\20240806155957_SupTableV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\Supplier\\20240806155957_SupTableV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\Supplier\\20240806155957_SupTableV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\migrations\\20240810104236_transactiontableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\migrations\\20240810104236_transactiontableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:migrations\\20240810104236_transactiontableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\inventorymanagementsystem\\migrations\\20240812145122_inventorytableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|d:\\c# training github\\inventorymanagementsystemminiproject\\migrations\\20240812145122_inventorytableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{034D6A51-A58F-457B-B3B2-8A58A34CFD80}|InventoryManagementSystem.csproj|solutionrelative:migrations\\20240812145122_inventorytableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -148,15 +143,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "SupplyStore.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\SupplyStore.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\SupplyStore.cs",
               "RelativeDocumentMoniker": "Controller\\SupplyStore.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\SupplyStore.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\SupplyStore.cs",
               "RelativeToolTip": "Controller\\SupplyStore.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAkwFwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,35 +160,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repositories\\InventoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InventoryRepository.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repositories\\InventoryRepository.cs",
-              "RelativeToolTip": "Repositories\\InventoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADgvxwAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "InventoryManagement.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "Repo\\InventoryManagement.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\InventoryManagement.cs",
+              "RelativeToolTip": "Repo\\InventoryManagement.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T08:52:54.1Z"
+              "WhenOpened": "2024-08-11T09:09:27.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InventoryManagement.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\InventoryManagement.cs",
-              "RelativeDocumentMoniker": "Repo\\InventoryManagement.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\InventoryManagement.cs",
-              "RelativeToolTip": "Repo\\InventoryManagement.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Title": "InventoryStore.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\InventoryStore.cs",
+              "RelativeDocumentMoniker": "Controller\\InventoryStore.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\InventoryStore.cs",
+              "RelativeToolTip": "Controller\\InventoryStore.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T09:09:27.136Z"
+              "WhenOpened": "2024-08-11T09:03:44.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:07:37.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwCoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:08:42.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionStock.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\TransactionStock.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionStock.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\TransactionStock.cs",
+              "RelativeToolTip": "Models\\TransactionStock.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwCsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:56:44.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repositories\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InventoryRepository.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repositories\\InventoryRepository.cs",
+              "RelativeToolTip": "Repositories\\InventoryRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:52:54.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:13:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductStore.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\ProductStore.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\ProductStore.cs",
               "RelativeDocumentMoniker": "Controller\\ProductStore.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\ProductStore.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\ProductStore.cs",
               "RelativeToolTip": "Controller\\ProductStore.cs",
               "ViewState": "AQIAAHUAAAAAAAAAAAAIwFgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,36 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventoryStore.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\InventoryStore.cs",
-              "RelativeDocumentMoniker": "Controller\\InventoryStore.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\InventoryStore.cs",
-              "RelativeToolTip": "Controller\\InventoryStore.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowEYAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T09:03:44.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\Inventory.cs",
-              "RelativeToolTip": "Models\\Inventory.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T04:13:21.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwE0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "dbo.Transactions [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB/True/SqlTable/dbo.Transactions.sql",
               "ToolTip": "dbo.Transactions [Data]",
@@ -247,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "dbo.Products [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB/True/SqlTable/dbo.Products.sql",
               "ToolTip": "dbo.Products [Data]",
@@ -256,23 +293,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAiwBkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T04:07:37.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TransactionManagement.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\TransactionManagement.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\TransactionManagement.cs",
               "RelativeDocumentMoniker": "Repo\\TransactionManagement.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\TransactionManagement.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\TransactionManagement.cs",
               "RelativeToolTip": "Repo\\TransactionManagement.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAIA5wBMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +305,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "TransactionStore.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\TransactionStore.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\TransactionStore.cs",
               "RelativeDocumentMoniker": "Controller\\TransactionStore.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Controller\\TransactionStore.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Controller\\TransactionStore.cs",
               "RelativeToolTip": "Controller\\TransactionStore.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAowEcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,11 +317,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProductManagement.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\ProductManagement.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\ProductManagement.cs",
               "RelativeDocumentMoniker": "Repo\\ProductManagement.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\ProductManagement.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\ProductManagement.cs",
               "RelativeToolTip": "Repo\\ProductManagement.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAwwC8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,19 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\Supplier.cs",
-              "RelativeDocumentMoniker": "Models\\Supplier.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\Supplier.cs",
-              "RelativeToolTip": "Models\\Supplier.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAIwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T04:08:42.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "dbo.inventories [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB/True/SqlTable/dbo.inventories.sql",
               "ToolTip": "dbo.inventories [Data]",
@@ -327,9 +340,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "20240812145122_inventoryTableAdded.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240812145122_inventoryTableAdded.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Migrations\\20240812145122_inventoryTableAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20240812145122_inventoryTableAdded.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240812145122_inventoryTableAdded.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Migrations\\20240812145122_inventoryTableAdded.cs",
               "RelativeToolTip": "Migrations\\20240812145122_inventoryTableAdded.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,9 +352,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "InventoryContext.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\InventoryContext.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Data\\InventoryContext.cs",
               "RelativeDocumentMoniker": "Data\\InventoryContext.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\InventoryContext.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Data\\InventoryContext.cs",
               "RelativeToolTip": "Data\\InventoryContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAiwA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,23 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TransactionStock.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\TransactionStock.cs",
-              "RelativeDocumentMoniker": "Models\\TransactionStock.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Models\\TransactionStock.cs",
-              "RelativeToolTip": "Models\\TransactionStock.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA3wB8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:56:44.668Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "TransactionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repositories\\TransactionRepository.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repositories\\TransactionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\TransactionRepository.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repositories\\TransactionRepository.cs",
               "RelativeToolTip": "Repositories\\TransactionRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,9 +376,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "SupplierManagement.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\SupplierManagement.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\SupplierManagement.cs",
               "RelativeDocumentMoniker": "Repo\\SupplierManagement.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Repo\\SupplierManagement.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Repo\\SupplierManagement.cs",
               "RelativeToolTip": "Repo\\SupplierManagement.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,9 +388,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ProductNotExistException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Exceptions\\ProductNotExistException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Exceptions\\ProductNotExistException.cs",
               "RelativeDocumentMoniker": "Exceptions\\ProductNotExistException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Exceptions\\ProductNotExistException.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Exceptions\\ProductNotExistException.cs",
               "RelativeToolTip": "Exceptions\\ProductNotExistException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,9 +400,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "NegativeStockException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Exceptions\\NegativeStockException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Exceptions\\NegativeStockException.cs",
               "RelativeDocumentMoniker": "Exceptions\\NegativeStockException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Exceptions\\NegativeStockException.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Exceptions\\NegativeStockException.cs",
               "RelativeToolTip": "Exceptions\\NegativeStockException.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,9 +412,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "ExistingNameException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Exceptions\\ExistingNameException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Exceptions\\ExistingNameException.cs",
               "RelativeDocumentMoniker": "Exceptions\\ExistingNameException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Exceptions\\ExistingNameException.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Exceptions\\ExistingNameException.cs",
               "RelativeToolTip": "Exceptions\\ExistingNameException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,9 +424,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "SQLQuery1.sql",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\SQLQuery1.sql",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\SQLQuery1.sql",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\SQLQuery1.sql",
               "RelativeToolTip": "SQLQuery1.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-08-12T04:18:07.293Z"
@@ -434,9 +435,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Program.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -446,9 +447,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "20240810104236_TransactionTableAdded.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810104236_TransactionTableAdded.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Migrations\\20240810104236_TransactionTableAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20240810104236_TransactionTableAdded.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810104236_TransactionTableAdded.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Migrations\\20240810104236_TransactionTableAdded.cs",
               "RelativeToolTip": "Migrations\\20240810104236_TransactionTableAdded.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,9 +460,7 @@
               "DocumentIndex": 24,
               "Title": "20240810103121_TransactionTableAddedToDB.cs",
               "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103121_TransactionTableAddedToDB.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240810103121_TransactionTableAddedToDB.cs",
               "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103121_TransactionTableAddedToDB.cs",
-              "RelativeToolTip": "Migrations\\20240810103121_TransactionTableAddedToDB.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T10:31:22.05Z"
@@ -470,9 +469,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "20240807135806_TableProductSupplierV1.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240807135806_TableProductSupplierV1.cs",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Migrations\\20240807135806_TableProductSupplierV1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240807135806_TableProductSupplierV1.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240807135806_TableProductSupplierV1.cs",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Migrations\\20240807135806_TableProductSupplierV1.cs",
               "RelativeToolTip": "Migrations\\20240807135806_TableProductSupplierV1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,9 +482,7 @@
               "DocumentIndex": 26,
               "Title": "20240810103035_TransactionTableAddedToDB.cs",
               "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103035_TransactionTableAddedToDB.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240810103035_TransactionTableAddedToDB.cs",
               "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\20240810103035_TransactionTableAddedToDB.cs",
-              "RelativeToolTip": "Migrations\\20240810103035_TransactionTableAddedToDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T10:30:35.16Z"
@@ -495,9 +492,7 @@
               "DocumentIndex": 28,
               "Title": "ProductContext.cs",
               "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\ProductContext.cs",
-              "RelativeDocumentMoniker": "Data\\ProductContext.cs",
               "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\ProductContext.cs",
-              "RelativeToolTip": "Data\\ProductContext.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T12:27:21.563Z"
             },
@@ -515,7 +510,6 @@
               "DocumentIndex": 30,
               "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\nimith.shetty\\AppData\\Local\\Temp\\w52cefk1..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\w52cefk1..sql",
               "ToolTip": "SQLQuery1.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-08-07T05:50:39.981Z"
@@ -534,9 +528,7 @@
               "DocumentIndex": 32,
               "Title": "SupplierContext.cs",
               "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\SupplierContext.cs",
-              "RelativeDocumentMoniker": "Data\\SupplierContext.cs",
               "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Data\\SupplierContext.cs",
-              "RelativeToolTip": "Data\\SupplierContext.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T15:25:15.29Z"
@@ -546,9 +538,7 @@
               "DocumentIndex": 33,
               "Title": "20240806155957_SupTableV1.cs",
               "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\Supplier\\20240806155957_SupTableV1.cs",
-              "RelativeDocumentMoniker": "Migrations\\Supplier\\20240806155957_SupTableV1.cs",
               "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\Migrations\\Supplier\\20240806155957_SupTableV1.cs",
-              "RelativeToolTip": "Migrations\\Supplier\\20240806155957_SupTableV1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T15:59:57.818Z"
@@ -557,9 +547,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\App.config",
+              "DocumentMoniker": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\App.config",
+              "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

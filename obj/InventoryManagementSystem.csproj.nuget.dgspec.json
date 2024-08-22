@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {}
+    "D:\\C# Training github\\InventoryManagementSystemMiniProject\\InventoryManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {
+    "D:\\C# Training github\\InventoryManagementSystemMiniProject\\InventoryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+        "projectUniqueName": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\InventoryManagementSystem.csproj",
         "projectName": "InventoryManagementSystem",
-        "projectPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+        "projectPath": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\InventoryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\nimith.shetty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\InventoryManagementSystem\\obj\\",
+        "outputPath": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nimith.shetty\\AppData\\Roaming\\NuGet\\NuGet.Config",

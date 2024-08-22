@@ -43,7 +43,8 @@ namespace InventoryManagementSystem.Models
                 $"Product Name : {ProductName}\n" +
                 $"Product Description : {ProductDescription}\n" +
                 $"Product Quantity : {ProductQuantity}\n" +
-                $"Product Price : {ProductPrice}\n";
+                $"Product Price : {ProductPrice}\n" +
+                $"Inventory Id : {InventoryId}\n";
         }
 
         public static Product CreateProduct(string name, string description , int quantity , double price,int invId)

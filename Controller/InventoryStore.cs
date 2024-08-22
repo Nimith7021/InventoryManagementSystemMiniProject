@@ -48,32 +48,27 @@ namespace InventoryManagementSystem.Controller
 
         public static void GenerateReport()
         {
-            var inventory = InventoryManagement.DisplayProducts();
-            Console.WriteLine("-----------------PRODUCTS-----------------------");
+            var inventory = InventoryManagement.DisplayEveryDetail();
+
             foreach (Inventory IndividualInventory in inventory)
             {
                 Console.WriteLine(IndividualInventory);
-                var products = IndividualInventory.products;
+                var products = IndividualInventory.products.
+                    Where(product => product.InventoryId == IndividualInventory.InventoryId).ToList();
+                var suppliers = IndividualInventory.suppliers.
+                   Where(supplier => supplier.InventoryId == IndividualInventory.InventoryId).ToList();
+                var transactions = IndividualInventory.transactionStocks.
+                    Where(transaction => transaction.InventoryId == IndividualInventory.InventoryId).ToList();
+
+
                 products.ForEach(product => Console.WriteLine(product));
+                suppliers.ForEach(supplier => Console.WriteLine(supplier));
+                transactions.ForEach(transaction => Console.WriteLine(transaction));
+
+
             }
 
-            Console.WriteLine("-----------------SUPPLIERS----------------------");
-            inventory = InventoryManagement.DisplaySuppliers();
-            foreach (Inventory IndividualInventory in inventory)
-            {
-                Console.WriteLine(IndividualInventory);
-                var products = IndividualInventory.suppliers;
-                products.ForEach(supplier => Console.WriteLine(supplier));
-            }
 
-            Console.WriteLine("-----------------TRANSACTIONS----------------------");
-            inventory = InventoryManagement.DisplayTransactions();
-            foreach (Inventory IndividualInventory in inventory)
-            {
-                Console.WriteLine(IndividualInventory);
-                var products = IndividualInventory.transactionStocks;
-                products.ForEach(transaction => Console.WriteLine(transaction));
-            }
         }
 
         public static void InventoryMenu()

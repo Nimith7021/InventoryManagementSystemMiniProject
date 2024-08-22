@@ -14,22 +14,10 @@ namespace InventoryManagementSystem.Repo
         static InventoryRepository repository = new InventoryRepository(new InventoryContext());
 
 
-        
-        public static List<Inventory> DisplayProducts()
-        {
-            var inventory = repository.GetAllProducts();
-            return inventory;
-        }
 
-        public static List<Inventory> DisplaySuppliers()
+        public static List<Inventory> DisplayEveryDetail()
         {
-            var inventory = repository.GetAllSuppliers();
-            return inventory;
-        }
-
-        public static List<Inventory> DisplayTransactions()
-        {
-            var inventory = repository.GetAllTransactions();
+            var inventory = repository.GetAllDetails();
             return inventory;
         }
 
