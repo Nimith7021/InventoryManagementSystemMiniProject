@@ -168,8 +168,7 @@
               "RelativeToolTip": "Repo\\InventoryManagement.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T09:09:27.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T09:09:27.136Z"
             },
             {
               "$type": "Document",
@@ -181,8 +180,7 @@
               "RelativeToolTip": "Controller\\InventoryStore.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAgwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T09:03:44.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T09:03:44.663Z"
             },
             {
               "$type": "Document",
@@ -192,7 +190,7 @@
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "D:\\C# Training github\\InventoryManagementSystemMiniProject\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAUwC4AAAAwAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwC4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T04:07:37.72Z",
               "EditorCaption": ""
@@ -207,8 +205,7 @@
               "RelativeToolTip": "Models\\Supplier.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAIwCoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T04:08:42.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T04:08:42.935Z"
             },
             {
               "$type": "Document",
@@ -220,8 +217,7 @@
               "RelativeToolTip": "Models\\TransactionStock.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAUwCsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:56:44.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T15:56:44.668Z"
             },
             {
               "$type": "Document",
@@ -233,8 +229,7 @@
               "RelativeToolTip": "Repositories\\InventoryRepository.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAgwBgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T08:52:54.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T08:52:54.1Z"
             },
             {
               "$type": "Document",
@@ -246,8 +241,7 @@
               "RelativeToolTip": "Models\\Inventory.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAmwBAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T04:13:21.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T04:13:21.761Z"
             },
             {
               "$type": "Document",
